@@ -48,63 +48,63 @@
 				<integer>1500</integer>
 				<key>port-count</key>
 				<data>
-				DAAAAA==
+				CwAAAA==
 				</data>
 				<key>ports</key>
 				<dict>
-					<key>UK03</key>
+					<key>HS03</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
-						<string>UK03</string>
+						<string>HS03</string>
 						<key>port</key>
 						<data>
 						AwAAAA==
 						</data>
 					</dict>
-					<key>UK04</key>
+					<key>HS04</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
-						<string>UK04</string>
+						<string>HS04</string>
 						<key>port</key>
 						<data>
 						BAAAAA==
 						</data>
 					</dict>
-					<key>UK08</key>
+					<key>HS08</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>0</integer>
 						<key>name</key>
-						<string>UK08</string>
+						<string>HS08</string>
 						<key>port</key>
 						<data>
 						CAAAAA==
 						</data>
 					</dict>
-					<key>UK11</key>
+					<key>HS11</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>name</key>
-						<string>UK11</string>
+						<string>HS11</string>
 						<key>port</key>
 						<data>
 						CwAAAA==
 						</data>
 					</dict>
-					<key>UK12</key>
+					<key>UK10</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>name</key>
-						<string>UK12</string>
+						<string>UK10</string>
 						<key>port</key>
 						<data>
-						DAAAAA==
+						CgAAAA==
 						</data>
 					</dict>
 				</dict>
